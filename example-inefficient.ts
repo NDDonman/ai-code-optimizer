@@ -9,6 +9,6 @@ export async function processFiles(files: string[]) {
 }
 
 export function findUser(users: any[], id: string) {
-    // Anti-pattern: Linear search instead of map lookup (keeping as is for now)
+    // Anti-pattern: Linear search instead of map lookup 
     return users.find(u => u.id === id);
 }
