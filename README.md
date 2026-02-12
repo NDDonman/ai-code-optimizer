@@ -8,7 +8,7 @@
 ## Features
 
 - 🚀 **AI-Powered Scanning**: Detects performance bottlenecks, anti-patterns, and inefficiencies.
-- 🤖 **Multi-Model Support**: Works with OpenAI (GPT-4) and xAI (Grok-2, Grok-3).
+- 🤖 **Multi-Model Support**: Works with OpenAI and xAI.
 - 🛠️ **Auto-Fix**: Interactively apply AI-suggested fixes directly to your code.
 - ⚙️ **Configurable**: use `.env` or `.ai-optimizer-rc` for flexible configuration.
 
@@ -61,5 +61,6 @@ ai-code-optimizer config
 ## License
 
 ISC
+
 
 
