@@ -1,7 +1,7 @@
 # AI Code Optimizer
 
 ![npm version](https://img.shields.io/npm/v/ai-code-optimizer)
-![License](https://img.shields.io/npm/l/ai-code-optimizer)
+
 
 **AI Code Optimizer** is a CLI tool that uses AI (OpenAI or Grok) to scan your Node.js codebase for performance issues and automatically suggests or applies fixes.
 
@@ -61,3 +61,4 @@ ai-code-optimizer config
 ## License
 
 ISC
+
