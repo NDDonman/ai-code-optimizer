@@ -15,7 +15,7 @@
 ## Installation
 
 ```bash
-npm install -g ai-code-optimizer
+npm i ai-code-optimizer-u
 ```
 
 ## Usage
@@ -61,6 +61,7 @@ ai-code-optimizer config
 ## License
 
 ISC
+
 
 
 
