@@ -1,7 +1,7 @@
 # AI Code Optimizer
 
 
-
+[![CodeQL Advanced](https://github.com/NDDonman/ai-code-optimizer/actions/workflows/codeql.yml/badge.svg)](https://github.com/NDDonman/ai-code-optimizer/actions/workflows/codeql.yml)
 
 **AI Code Optimizer** is a CLI tool that uses AI (OpenAI or Grok) to scan your Node.js codebase for performance issues and automatically suggests or applies fixes.
 
@@ -61,6 +61,7 @@ ai-code-optimizer config
 ## License
 
 ISC
+
 
 
 
